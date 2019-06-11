@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bbsszzssooss.github.io</id>
     <title>Gridea</title>
-    <updated>2019-06-11T13:17:06.810Z</updated>
+    <updated>2019-06-11T13:25:37.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bbsszzssooss.github.io"/>
     <link rel="self" href="https://bbsszzssooss.github.io/atom.xml"/>
@@ -11,12 +11,15 @@
     <icon>https://bbsszzssooss.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://bbsszzssooss.github.io/post/test</id>
-        <link href="https://bbsszzssooss.github.io/post/test">
+        <title type="html"><![CDATA[抗议北师珠停校]]></title>
+        <id>https://bbsszzssooss.github.io/post/bsz</id>
+        <link href="https://bbsszzssooss.github.io/post/bsz">
         </link>
         <updated>2019-06-11T13:08:00.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://bbsszzssooss.github.io/post-images/1560258494120.jpg" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="https://bbsszzssooss.github.io/post-images/1560258494120.jpg" alt="">
+<img src="https://bbsszzssooss.github.io/post-images/1560259355183.jpg" alt="">
+<img src="https://bbsszzssooss.github.io/post-images/1560259396873.jpg" alt="">
+<img src="https://bbsszzssooss.github.io/post-images/1560259460514.jpg" alt=""></p>
 ]]></content>
     </entry>
 </feed>
